@@ -1,6 +1,6 @@
 # TXT UPLOADER
 
-# 𝗕𝗢𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬 RAJ ™
+# 𝗕𝗢𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬 Dragon ™
 
 
 ## DEPLOY TO HEROKU
